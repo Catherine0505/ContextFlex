@@ -1,4 +1,4 @@
 scripts
 *data
 configs
-
+*__pycache__
