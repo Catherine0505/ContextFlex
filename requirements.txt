@@ -1,5 +1,7 @@
 einops 
 torch
+torchvision
 numpy
 matplotlib
 pystrum
+tqdm
