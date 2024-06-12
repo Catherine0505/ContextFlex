@@ -2,3 +2,4 @@ einops
 torch
 numpy
 matplotlib
+pystrum
